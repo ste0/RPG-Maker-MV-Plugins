@@ -1,6 +1,9 @@
 ## RPG-Marker-MV-Plugins by jp_asty
 別サイトに上げていたプラグインを1箇所にまとめました。  
 
+### [ASJP_CharacterVisualization.js](https://raw.githubusercontent.com/ste0/RPG-Marker-MV-Plugins/main/PluginTest/js/plugins/ASJP_CharacterVisualization.js)
+・マップの影に隠れたキャラクターをシルエット表示します。
+
 ### [SameRandomValues.js](https://raw.githubusercontent.com/ste0/RPG-Marker-MV-Plugins/main/PluginTest/js/plugins/SameRandomValues.js)
 ・セーブからやり直しても同じ乱数を返すようになります。  
 
